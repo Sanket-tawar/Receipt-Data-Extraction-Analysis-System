@@ -1,0 +1,354 @@
+[
+    {
+        "5.jpg": {
+            "store_name": {
+                "value": "WHOLE FOODS",
+                "confidence": 0.98
+            },
+            "date": {
+                "value": "9/15/2020",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "28.28",
+                "confidence": 0.62
+            }
+        }
+    },
+    {
+        "X51005200931.jpg": {
+            "store_name": {
+                "value": "PERNIAGAAN ZHENG HUI",
+                "confidence": 0.87
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "X51005230616.jpg": {
+            "store_name": {
+                "value": "Dsfz_",
+                "confidence": 0.08
+            },
+            "date": {
+                "value": "18/01/2018",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "38.90",
+                "confidence": 1.0
+            }
+        }
+    },
+    {
+        "X51005230621.jpg": {
+            "store_name": {
+                "value": "Sin Liantap SoN Bhd",
+                "confidence": 0.12
+            },
+            "date": {
+                "value": "05/02/2018",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "X51005200938.jpg": {
+            "store_name": {
+                "value": "PZRNIAGAAN ZHENG Hui",
+                "confidence": 0.45
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "4.jpg": {
+            "store_name": {
+                "value": "Walmart",
+                "confidence": 1.0
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "15.jpg": {
+            "store_name": {
+                "value": "e8 fecelet",
+                "confidence": 0.07
+            },
+            "date": {
+                "value": "07/22/16",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "2.jpg": {
+            "store_name": {
+                "value": "Give Ur ftrbuck",
+                "confidence": 0.07
+            },
+            "date": {
+                "value": "10/18/20",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "10.jpg": {
+            "store_name": {
+                "value": "S5AQ",
+                "confidence": 0.47
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "X00016469619.jpg": {
+            "store_name": {
+                "value": "tan woon",
+                "confidence": 0.74
+            },
+            "date": {
+                "value": "19/10/2018",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "8.jpg": {
+            "store_name": {
+                "value": "Cogce",
+                "confidence": 0.1
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "85.61",
+                "confidence": 1.0
+            }
+        }
+    },
+    {
+        "17.jpg": {
+            "store_name": {
+                "value": "Sts",
+                "confidence": 0.07
+            },
+            "date": {
+                "value": "01/15/17",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "19.jpg": {
+            "store_name": {
+                "value": "Givc",
+                "confidence": 0.89
+            },
+            "date": {
+                "value": "10/16/21",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "18.jpg": {
+            "store_name": {
+                "value": "Tea @",
+                "confidence": 0.01
+            },
+            "date": {
+                "value": "10/31/21",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "0.jpg": {
+            "store_name": {
+                "value": "WAL-MART'",
+                "confidence": 0.39
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "3.jpg": {
+            "store_name": {
+                "value": "B0.# 0f",
+                "confidence": 0.02
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "X00016469672.jpg": {
+            "store_name": {
+                "value": "tan",
+                "confidence": 1.0
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "13.jpg": {
+            "store_name": {
+                "value": "ISudace",
+                "confidence": 0.01
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "X00016469620.jpg": {
+            "store_name": {
+                "value": "tan woon",
+                "confidence": 0.49
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "33.90",
+                "confidence": 0.76
+            }
+        }
+    },
+    {
+        "20.png": {
+            "store_name": {
+                "value": "DOLLAR TREE",
+                "confidence": 0.79
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "0.00",
+                "confidence": 0.2
+            }
+        }
+    },
+    {
+        "X00016469671.jpg": {
+            "store_name": {
+                "value": "tan",
+                "confidence": 0.92
+            },
+            "date": {
+                "value": "02/01/70",
+                "confidence": 0.85
+            },
+            "total_amount": {
+                "value": "170.00",
+                "confidence": 0.87
+            }
+        }
+    },
+    {
+        "X00016469669.jpg": {
+            "store_name": {
+                "value": "tan",
+                "confidence": 1.0
+            },
+            "date": {
+                "value": "N/A",
+                "confidence": 0.4
+            },
+            "total_amount": {
+                "value": "31.00",
+                "confidence": 1.0
+            }
+        }
+    }
+]
